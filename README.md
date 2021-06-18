@@ -3,7 +3,7 @@
 Extras:
 
 - EsLint plugins and configuration
-- TS config strict=false
+- TS config
 - Prettier
 - VSCode configuration JSON
 - Craco
