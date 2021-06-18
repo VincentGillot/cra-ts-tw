@@ -6,3 +6,4 @@ Extras:
 - TS config strict=false
 - Prettier
 - VSCode configuration JSON
+- Craco
